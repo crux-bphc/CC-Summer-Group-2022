@@ -31,3 +31,7 @@ The summer series is targeted at beginners and aims to build up concept knowledg
     - [Binary Search](/Week-3/Topic%201%20-%20Binary%20Search.md)
     - [Prefix Sums](/Week-3/Topic%202%20-%20Prefix%20Sums.md)
     - [Advanced STL](/Week-3/Topic%203%20-%20Advanced%20STL.md)
+
+4. Week 4:
+    - [Trees](/Week-4/Topic%201%20-%20Trees.md)
+    - [Graphs](/Week-4/Topic%202%20-%20Graphs.md)
