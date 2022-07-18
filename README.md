@@ -35,3 +35,6 @@ The summer series is targeted at beginners and aims to build up concept knowledg
 4. Week 4:
     - [Trees](/Week-4/Topic%201%20-%20Trees.md)
     - [Graphs](/Week-4/Topic%202%20-%20Graphs.md)
+
+5. Week 5:
+    - [Dynamic Programming](/Week-5/Topic%201%20Dynamic%20Programming.md)
